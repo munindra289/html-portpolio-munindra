@@ -1,0 +1,68 @@
+.heading{
+    font-size: 2.0rem;
+    font-weight: 550;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #2a79e0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Caveat', cursive;
+} 
+h2 {
+    font-size: 1.2rem;
+    font-weight: 550;
+    text-align: left;
+    color: #2a79e0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Caveat', cursive;
+}
+p{
+    font-size: 1.0rem;
+    font-weight: 550;
+    text-align: left;
+    margin-bottom: 2rex;
+    color: #9e3939;
+    letter-spacing: 1.2px;
+    font-family: 'Caveat', cursive;
+}
+
+#profilephoto{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    border:3px solid #2a79e0;
+    }
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #9e3939;
+    margin-bottom: 2rem;
+    font-family: 'Caveat', cursive;
+}
+
+td,th{
+    border: 1px solid #2a79e0;
+    padding: 8px;
+    text-align: left;
+    font-size: 1.0rem;
+    font-weight: 550;
+    color: #9e3939;
+    letter-spacing: 1.2px;
+    font-family: 'Caveat', cursive;
+}
+th{
+    color: black;
+}
+.Hobbies
+{
+    font-size: 1.3rem;
+    font-weight: 550;
+    text-align: left;
+    color: #9e3939;
+    letter-spacing: 2px;
+    font-family: 'Caveat', cursive;
+}
